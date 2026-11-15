@@ -40,7 +40,7 @@ const copy = {
 };
 
 const image = {
-  hero: 'https://images.unsplash.com/photo-1600100397608-f010e5a4a8b5?auto=format&fit=crop&w=2200&q=88',
+  hero: '/hero-karnataka.png',
   hampi: 'https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=1200&q=85',
   people: 'https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1200&q=85',
   fields: 'https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1400&q=85',
